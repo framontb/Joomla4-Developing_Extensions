@@ -6,3 +6,5 @@ Joomla4 - Developing Extensions. Book by Astrid Günther.
 A view in the administration area with a menu item.
 
 ## Chapter 5 - The first view in the Frontend
+
+## Chapter 6 - Add menu item
