@@ -20,3 +20,5 @@ Get the Frontend message from the model.
 ## Chapter 8 - Extend the Menu Item with a Variable
 
 Add a text variable to the menu item.
+
+## Chapter 9 - A Joomla database table for your extenxion

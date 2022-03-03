@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_FOOS_FOO_VIEW_DEFAULT_TITLE">
+		<message>
+			<![CDATA[COM_FOOS_FOO_VIEW_DEFAULT_DESC]]>
+		</message>
+	</layout>
+	<fields name="request">
+		<fieldset name="request">
+			<field
+				name="show_text"
+				type="text"
+				label="COM_FOOS_FIELD_TEXT_SHOW_LABEL"
+				default="Hi default" 
+			/>
+		</fieldset>
+	</fields>
+</metadata>
