@@ -22,3 +22,9 @@ Get the Frontend message from the model.
 Add a text variable to the menu item.
 
 ## Chapter 9 - A Joomla database table for your extenxion
+
+Get the items list from the database.
+
+## Chapter 10 - Using the Database
+
+Add a form that interacts with the database in the backend.
