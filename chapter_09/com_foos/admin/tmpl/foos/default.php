@@ -8,4 +8,8 @@
  */
 \defined('_JEXEC') or die;
 ?>
-Hello Foos
+
+<?php foreach ($this->items as $i => $item) : ?>
+	<?php echo $item->name; ?>
+</br>
+<?php endforeach; ?>

@@ -16,10 +16,17 @@ use Joomla\CMS\MVC\View\HtmlView as BaseHtmlView;
 /**
  * View class for a list of foos.
  *
- * @since  1.0.0
+ * @since  __BUMP_VERSION__
  */
 class HtmlView extends BaseHtmlView
 {
+	/**
+	 * An array of items
+	 *
+	 * @var  array
+	 */
+	protected $items;
+
 	/**
 	 * Method to display the view.
 	 *
@@ -27,10 +34,11 @@ class HtmlView extends BaseHtmlView
 	 *
 	 * @return  void
 	 *
-	 * @since   1.0.0
+	 * @since   __BUMP_VERSION__
 	 */
 	public function display($tpl = null): void
 	{
+		$this->items = $this->get('Items');
 		parent::display($tpl);
 	}
 }
