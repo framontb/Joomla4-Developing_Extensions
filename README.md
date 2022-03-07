@@ -28,3 +28,7 @@ Get the items list from the database.
 ## Chapter 10 - Using the Database
 
 Add a form that interacts with the database in the backend.
+
+## Chapter 11 - Using the Database in the FrontEnd
+
+Output the content for an element via menu item with their own form field.
