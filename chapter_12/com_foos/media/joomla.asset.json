@@ -1,0 +1,20 @@
+{
+    "$schema": "https://developer.joomla.org/schemas/json-schema/web_assets.json",
+    "name": "com_foos",
+    "version": "1.0.0",
+    "description": "Joomla CMS",
+    "license": "GPL-2.0-or-later",
+    "assets": [
+      {
+        "name": "com_foos.admin-foos-modal",
+        "type": "script",
+        "uri": "com_foos/admin-foos-modal.js",
+        "dependencies": [
+          "core"
+        ],
+        "attributes": {
+          "defer": true
+        }
+      }
+    ]
+  }
