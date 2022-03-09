@@ -39,3 +39,6 @@ Output the content for an element via menu item with their own form field.
 
 Add configuration parameters for the component by means of config.xml form.
 
+## Chapter 14 - Access Control Lists (ACL)
+
+Manage user rights.
