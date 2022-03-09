@@ -35,3 +35,7 @@ Output the content for an element via menu item with their own form field.
 
 ## Chapter 12 - Using Language Files
 
+## Chapter 13 - Configuration
+
+Add configuration parameters for the component by means of config.xml form.
+
