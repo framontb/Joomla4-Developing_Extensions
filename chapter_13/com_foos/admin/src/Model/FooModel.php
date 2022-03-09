@@ -82,21 +82,4 @@ class FooModel extends AdminModel
 	{
 		$table->generateAlias();
 	}
-
-	/**
-	 * Method to auto-populate the model state.
-	 *
-	 * Note. Calling getState in this method will result in recursion.
-	 *
-	 * @return  void
-	 *
-	 * @since   __BUMP_VERSION__
-	 */
-	protected function populateState()
-	{
-		$app = Factory::getApplication();
-
-		$this->setState('foo.id', $app->input->getInt('id'));
-		$this->setState('params', $app->getParams());
-	}
 }
