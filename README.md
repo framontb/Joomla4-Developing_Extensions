@@ -43,6 +43,11 @@ Add configuration parameters for the component by means of config.xml form.
 
 Manage user rights.
 
-## Chapter 15- Client Side Validation
+## Chapter 15 - Server Side Validation
 
-Validate input from users.
+Validate input from users Server side.
+
+## Chapter 16 - Client Side Validation
+
+Validate input from users Browser side.
+
