@@ -42,3 +42,7 @@ Add configuration parameters for the component by means of config.xml form.
 ## Chapter 14 - Access Control Lists (ACL)
 
 Manage user rights.
+
+## Chapter 15- Client Side Validation
+
+Validate input from users.
