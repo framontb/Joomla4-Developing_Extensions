@@ -55,3 +55,7 @@ Validate input from users Browser side.
 
 Integrate categories into the component.
 
+## Chapter 18 - Publish and Unpubish / Hide
+
+Change published status for Foo items with Joomla standar code.
+
