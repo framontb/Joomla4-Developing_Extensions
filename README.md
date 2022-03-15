@@ -51,3 +51,7 @@ Validate input from users Server side.
 
 Validate input from users Browser side.
 
+## Chapter 17 - Set Up Categories in Backend
+
+Integrate categories into the component.
+
