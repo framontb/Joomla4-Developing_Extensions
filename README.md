@@ -59,3 +59,6 @@ Integrate categories into the component.
 
 Change published status for Foo items with Joomla standar code.
 
+## Chapter 19 - Integrate Custom Fields in Backend
+
+Create and edit all kind of custom fields from backend.
