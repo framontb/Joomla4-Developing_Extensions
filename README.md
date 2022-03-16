@@ -62,3 +62,7 @@ Change published status for Foo items with Joomla standar code.
 ## Chapter 19 - Integrate Custom Fields in Backend
 
 Create and edit all kind of custom fields from backend.
+
+## Chapter 20 - Integrate Custom Fields in Frontend
+
+View custom fields in frontend.
