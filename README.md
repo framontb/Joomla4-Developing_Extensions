@@ -66,3 +66,5 @@ Create and edit all kind of custom fields from backend.
 ## Chapter 20 - Integrate Custom Fields in Frontend
 
 View custom fields in frontend.
+
+## Chapter 21 - Multilingual Associations
