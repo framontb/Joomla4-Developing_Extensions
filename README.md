@@ -68,3 +68,9 @@ Create and edit all kind of custom fields from backend.
 View custom fields in frontend.
 
 ## Chapter 21 - Multilingual Associations
+
+Foo items on several laguages can be associated.
+
+## Chapter 22 - Filter, Sort, Search
+
+Filter, Sort, Search in BackEnd.
