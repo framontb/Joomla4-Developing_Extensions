@@ -78,3 +78,7 @@ Filter, Sort, Search in BackEnd.
 ## Chapter 23 - Toolbar Actions
 
 Add standard Toolbar Actions to the list view and to Items view.
+
+## Chapter 24 - Parameter
+
+Customize the component with parameters at Item, menu or component level.
