@@ -90,3 +90,7 @@ Add pagination capabilities in backend.
 ## Chapter 26 - Layouts
 
 Set different layouts in the frontend.
+
+## Chapter 27 - Checkin und Checkout
+
+Just to be sure two users don't edit a Foo item at the same time.
