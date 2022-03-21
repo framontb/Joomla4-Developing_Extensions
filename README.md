@@ -98,3 +98,5 @@ Just to be sure two users don't edit a Foo item at the same time.
 ## Chapter 28 - Batch
 
 Batch actions in Backend.
+
+## Chapter 29 - Help Sites
