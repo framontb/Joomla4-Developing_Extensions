@@ -86,3 +86,7 @@ Customize the component with parameters at Item, menu or component level.
 ## Chapter 25 - Pagination
 
 Add pagination capabilities in backend.
+
+## Chapter 26 - Layouts
+
+Set different layouts in the frontend.
