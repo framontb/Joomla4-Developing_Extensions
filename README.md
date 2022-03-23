@@ -100,3 +100,7 @@ Just to be sure two users don't edit a Foo item at the same time.
 Batch actions in Backend.
 
 ## Chapter 29 - Help Sites
+
+## Chapter 30 - Featured
+
+Featured articles.
