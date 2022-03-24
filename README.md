@@ -108,3 +108,7 @@ Featured articles.
 ## Chapter 31 - Backend Form
 
 Tidy backend form.
+
+## Chapter 32 - Frontend Editing
+
+Edit Foo items in frontend.
