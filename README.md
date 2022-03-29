@@ -115,3 +115,5 @@ Edit Foo items in frontend.
 
 ## Chapter 33 - View by Categories
 
+## Chapter 34 - Add a Service – Routing
+
