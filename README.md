@@ -112,3 +112,6 @@ Tidy backend form.
 ## Chapter 32 - Frontend Editing
 
 Edit Foo items in frontend.
+
+## Chapter 33 - View by Categories
+
