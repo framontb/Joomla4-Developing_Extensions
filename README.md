@@ -117,3 +117,5 @@ Edit Foo items in frontend.
 
 ## Chapter 34 - Add a Service – Routing
 
+## Chapter 35 - Dashboard
+
