@@ -119,3 +119,4 @@ Edit Foo items in frontend.
 
 ## Chapter 35 - Dashboard
 
+## Chapter 36 - Tags
