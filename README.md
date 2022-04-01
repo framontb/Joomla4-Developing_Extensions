@@ -120,3 +120,9 @@ Edit Foo items in frontend.
 ## Chapter 35 - Dashboard
 
 ## Chapter 36 - Tags
+
+## Chapter 37 - Web Services
+
+```
+curl --location --request GET 'http://YOUR.URL/api/index.php/v1/foos' --header 'Accept: application/vnd.api+json' --header 'X-Joomla-Token: <See you user token in users Manager>'
+```
