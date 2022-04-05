@@ -123,6 +123,41 @@ Edit Foo items in frontend.
 
 ## Chapter 37 - Web Services
 
+* Access API
 ```
 curl --location --request GET 'http://YOUR.URL/api/index.php/v1/foos' --header 'Accept: application/vnd.api+json' --header 'X-Joomla-Token: <See you user token in users Manager>'
+
+curl --location --request GET 'http://YOUR.URL/api/index.php/v1/foos' --header 'Accept: application/vnd.api+json' --user my_user:my_pass
 ```
+
+## Chapter 38 - Plugins
+
+* [Plugin/Events](https://docs.joomla.org/Plugin/Events)
+    1. Action Log
+    2. API Authentication
+    3. Authentication
+        * [OAuth](https://oauth.net/)
+
+    4. Behaviour
+    5. Captcha
+        * [Google CAPTCHA](https://www.google.com/recaptcha/about/)
+
+    6. Content
+    7. Editors
+        * [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG)
+        * [JCE-Editor](https://www.joomlacontenteditor.net/)
+    8. Editor Button
+    9. Extensions
+    10. Fields
+    11. FileSystem
+    12. Finder
+    13. Installer
+    14. Media Action
+    15. Privacy
+    16. Quick Icon
+    17. Sample Data
+    18. System
+    19. Two Factor Authentication
+    20. User
+    21. Web Services
+    22. Workflow
