@@ -166,3 +166,5 @@ curl --location --request GET 'http://YOUR.URL/api/index.php/v1/foos' --header '
 
 ## Chapter 40 - Namespaces and Helper
 
+## Chapter 41 - Parameter
+

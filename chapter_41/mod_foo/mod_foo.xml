@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" client="site" method="upgrade">
+	<name>MOD_FOO</name>
+	<creationDate>[DATE]</creationDate>
+	<author>[AUTHOR]</author>
+	<authorEmail>[AUTHOR_EMAIL]</authorEmail>
+	<authorUrl>[AUTHOR_URL]</authorUrl>
+	<copyright>[COPYRIGHT]</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<version>__BUMP_VERSION__</version>
+	<description>MOD_FOO_XML_DESCRIPTION</description>
+
+	<namespace path="src">FooNamespace\Module\Foo</namespace>
+
+	<files>
+		<filename module="mod_foo">mod_foo.php</filename>
+		<folder>tmpl</folder>
+		<folder>src</folder>
+		<folder>language</folder>
+		<filename>mod_foo.xml</filename>
+	</files>
+
+	<config>
+		<fields name="params">
+			<fieldset name="fooparams">
+				<field
+					name="domain"
+					type="url"
+					label="MOD_FOO_FIELD_URL_LABEL"
+					filter="url"
+				/>
+			</fieldset>
+		</fields>
+	</config>
+	
+</extension>
