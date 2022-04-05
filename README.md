@@ -161,3 +161,6 @@ curl --location --request GET 'http://YOUR.URL/api/index.php/v1/foos' --header '
     20. User
     21. Web Services
     22. Workflow
+
+## Chapter 39 - First Steps (module)
+
