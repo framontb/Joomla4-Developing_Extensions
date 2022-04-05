@@ -168,3 +168,4 @@ curl --location --request GET 'http://YOUR.URL/api/index.php/v1/foos' --header '
 
 ## Chapter 41 - Parameter
 
+## Chapter 42 - Installation script
