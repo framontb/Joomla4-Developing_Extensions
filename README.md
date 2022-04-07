@@ -169,3 +169,11 @@ curl --location --request GET 'http://YOUR.URL/api/index.php/v1/foos' --header '
 ## Chapter 41 - Parameter
 
 ## Chapter 42 - Installation script
+
+## Chapter 43 - First Steps (Template)
+
+## Chapter 44 - Modul Positions
+
+* Docs:
+    1. [Git Comparing Changes](https://github.com/astridx/boilerplate/compare/t35...t36)
+    2. [Joomla! Documentation: Jdoc statements](https://docs.joomla.org/Jdoc_statements)
