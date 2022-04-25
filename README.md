@@ -9,6 +9,10 @@ A view in the administration area with a menu item.
 
 Simple view in the frontend.
 
+* [Test site view](http://joomla_arranxos/index.php?option=com_professionals&view=professional)
+
+* [Enabling Search Engine Friendly (SEF) URLs](https://docs.joomla.org/Enabling_Search_Engine_Friendly_(SEF)_URLs)
+
 ## Chapter 6 - Add menu item
 
 Configure a menu item to show in the frontend.
